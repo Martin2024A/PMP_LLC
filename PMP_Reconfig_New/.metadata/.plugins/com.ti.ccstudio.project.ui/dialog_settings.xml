@@ -12,7 +12,6 @@
 			<item key="CCS.TOOL_VERSION" value="5.2.9"/>
 			<item key="CCS.TOOL_CHAIN" value="TI"/>
 			<item key="CCS.OUTPUT_TYPE" value="executable"/>
-			<item key="CCS.OUTPUT_FORMAT" value="COFF"/>
 			<item key="CCS.LINKER_COMMAND_FILE" value="null"/>
 			<item key="CCS.RUNTIME_SUPPORT_LIB" value="null"/>
 		</section>
