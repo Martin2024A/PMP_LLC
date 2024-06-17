@@ -1,0 +1,126 @@
+//###########################################################################
+//
+// FILE:    standard_interrupt.c
+//
+// TITLE:
+//
+// NOTES:
+//  1)
+//###########################################################################
+//
+//  Ver  | dd mmm yyyy | Who  		| Description of changes
+// ======|=============|============|========================================
+//  00 	   08 28 2015 	 HPCS
+//
+//  Texas Instruments, Inc
+//  Copyright Texas Instruments 2008. All rights reserved.
+//###########################################################################
+
+#include "system_defines.h"
+#include "cyclone_device.h"
+#include "cyclone_defines.h"
+#include "pmbus_topology.h"
+#include "pmbus_common.h"
+#include "variables.h"
+#include "function_definitions.h"
+#include "software_interrupts.h"
+
+#define CALIB_TEMPERATURE (23)
+#define TEMP_COUNT_AT_CALIB_TEMPERATURE (1856)
+#define TEMP_COUNT_PER_DEG_C (104)
+#define CBC_RECOVER_TIME_THRESHOLD (100)
+
+#define measure_baud_enable
+
+
+void poll_adc(void)
+{
+
+}
+
+void average_adc_readings(void)
+{
+
+
+}
+
+void clear_faults(void)
+{
+
+}
+
+void control_sr_on_off(void)
+{
+
+}
+
+void set_vout(void)
+{
+
+}
+
+void period_change(void)
+{
+
+}
+
+void handle_standard_interrupt_global_tasks(void)
+{
+
+}
+
+void transition_to_idle_state(void)
+{
+
+}
+
+void handle_softstart(void)
+{
+
+}
+
+
+
+void handle_idle_state(void)
+{
+
+}
+
+
+void handle_ramp_up_state(void)
+{
+
+}
+
+
+
+void handle_delay_rampup_state(void)
+{
+
+}
+void handle_regulation_state(void)
+{	
+
+}
+
+void handle_vout_transition_state(void)
+{
+
+}
+
+
+
+void handle_hiccup_state(void)
+{
+
+}
+
+void handle_fault_state(void)
+{
+
+}
+#pragma INTERRUPT(standard_interrupt,IRQ)
+void standard_interrupt(void)
+{
+    return ;
+}
