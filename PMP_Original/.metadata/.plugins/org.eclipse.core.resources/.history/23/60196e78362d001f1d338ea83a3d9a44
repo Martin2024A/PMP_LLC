@@ -1,0 +1,8 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+USER_OBJS :=
+
+LIBS := -llibc.a -l"D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Device/UCD3138A/Linker/cyclone_A_headers.cmd" -l"D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Device/UCD3138A/Linker/cyclone_A.cmd"
+

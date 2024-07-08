@@ -16,7 +16,7 @@
 //  Copyright Texas Instruments 2008. All rights reserved.
 //###########################################################################
 #include "Cyclone_Device.h"
-#include "main.h"
+//#include "main.h"
 
 
 //---------------------------------------------------------------------------

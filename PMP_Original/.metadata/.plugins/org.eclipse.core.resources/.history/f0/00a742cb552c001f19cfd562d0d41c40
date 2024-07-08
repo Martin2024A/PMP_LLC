@@ -1,0 +1,28 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_command_indexes.c \
+D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_common.c \
+D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_driver.c 
+
+OBJS += \
+./Driver/Pmbus/pmbus_command_indexes.obj \
+./Driver/Pmbus/pmbus_common.obj \
+./Driver/Pmbus/pmbus_driver.obj 
+
+OBJS__QUOTED += \
+"Driver\Pmbus\pmbus_command_indexes.obj" \
+"Driver\Pmbus\pmbus_common.obj" \
+"Driver\Pmbus\pmbus_driver.obj" 
+
+C_SRCS__QUOTED += \
+"D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_command_indexes.c" \
+"D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_common.c" \
+"D:/Workspace/Power/5.Code/PMP_LLC/PMP_Original/Firmware/Driver/Pmbus/pmbus_driver.c" 
+
+
